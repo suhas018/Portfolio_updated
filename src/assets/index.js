@@ -20,6 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import django from "./django.svg";
+import DjangoREST from "./django.svg";
+import Nextjs from "./Nextjs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -29,6 +32,8 @@ import tesla from "./company/tesla.png";
 import chrono from "./chrono.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import blog from "./blog.png";
+import devFinder from "./devFinder.png";
 
 export {
   logo,
@@ -59,4 +64,9 @@ export {
   chrono,
   jobit,
   tripguide,
+  django,
+  devFinder,
+  DjangoREST,
+  blog,
+  Nextjs,
 };
