@@ -215,10 +215,10 @@ import {
             color: "red-text-gradient",
           },
         ],
-      image: blog,
-      source_code_link: "https://github.com/suhas018/Blog_application",
-    },
-    
-  ];
+        image: blog,
+        source_code_link: "https://github.com/suhas018/Blog_application",
+      },
+      
+    ];
   
   export { services, technologies, experiences, testimonials, projects };

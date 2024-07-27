@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Myself, Malakala Suhas Badrinath, currently pursuing 3rd-year B.Tech specializing in
+        Myself, Malakala Suhas Badrinath, currently pursuing 4th-year B.Tech specializing in
         Computer Science Engineering at Vignan's Institute of Information Technology. I have a 
         strong foundation in web development, with expertise in HTML, CSS, JavaScript, and 
         Django, along with skills in Git, UI/UX design. I am passionate 
